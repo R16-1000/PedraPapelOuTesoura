@@ -1,0 +1,19 @@
+.player-options img,
+.enemy-options img{
+    max-width: 150px;
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+.player-options,
+.enemy-options{
+    width: 50%;
+}
+
+h1{
+    font-size: 20px;
+}
+
+.align{
+    display: flex;
+}
